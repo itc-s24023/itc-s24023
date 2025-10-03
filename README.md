@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developer in Japan</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoge&show_icons=true&locale=en&layout=compact" alt="itc-s24023" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoge&" alt="hoge" /></p>
 
