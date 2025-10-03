@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm RIKITO HIGA</h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoge&" alt="hoge" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={itc-s24023}
-)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itc-s24023)]
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=twitter,dart,vscode,react,typescript)](https://skillicons.dev)
 
