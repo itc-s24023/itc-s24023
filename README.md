@@ -1,6 +1,9 @@
 ## Hi!👋 Welcome to my GitHub!
 私はITカレッジ沖縄ITスペシャリスト科情報工学科コースの比嘉力斗です。
 
+[![trophy](https://github-profile-trophy.vercel.app/?username={itc-s24023)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **itc-s24023/itc-s24023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
