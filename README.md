@@ -7,9 +7,9 @@
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itc-s24023)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=itc-s24023)]
 
-<h2>使用してるアプリ</h2>[![My Skills](https://skillicons.dev/icons?i=twitter,dart,vscode,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=twitter,dart,vscode,react,typescript)](https://skillicons.dev)
 
 
 
