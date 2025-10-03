@@ -9,7 +9,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoge&" alt="hoge" /></p>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itc-s24023)]
