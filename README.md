@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm RIKITO HIGA</h1>
 
-<h2>ITカレッジ沖縄ITスペシャリスト科2年の比嘉力斗です
-  　私は学校で主にgithubの使い方や、java,kotlin,htmlの基本的な技術を学びました
-</h2>
+<h2>ITカレッジ沖縄ITスペシャリスト科2年の比嘉力斗です</h2>h2>
+<h2>私は学校で主にgithubの使い方や、java,kotlin,htmlの基本的な技術を学びました</h2> 　
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
