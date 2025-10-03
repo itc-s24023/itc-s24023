@@ -1,6 +1,4 @@
-
-
-<h1 align="center">Hi 👋, I'm ○○○</h1>
+<h1 align="center">Hi 👋, I'm RIKITO HIGA</h1>
 <h3 align="center">A passionate developer in Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoge&label=Profile%20views&color=0e75b6&style=flat" alt="hoge" /> </p>
@@ -11,6 +9,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoge&show_icons=true&locale=en&layout=compact" alt="itc-s24023" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoge&" alt="hoge" /></p>
+
+[![My Skills](https://skillicons.dev/icons?i=twitter,dart,vscode,react,typescript)](https://skillicons.dev)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=itc-s24023)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
