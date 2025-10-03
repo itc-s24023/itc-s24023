@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm RIKITO HIGA</h1>
-<h3 align="center">A passionate developer in Japan</h3>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
