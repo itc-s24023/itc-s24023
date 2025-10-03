@@ -16,7 +16,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=twitter,dart,vscode,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=twitter,vscode,react,typescript)](https://skillicons.dev)
 
 
 
