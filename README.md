@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=itc-s24023)
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=twitter,dart,vscode,react,typescript)](https://skillicons.dev)
 
 
 
