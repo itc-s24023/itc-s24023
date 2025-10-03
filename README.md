@@ -3,7 +3,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoge&" alt="hoge" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-s24023
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={itc-s24023}
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
