@@ -7,6 +7,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=twitter,dart,vscode,react,typescript)](https://skillicons.dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={itc-s24023}&hide=contribs,prs)
+
+
 
 
 <!--
