@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm RIKITO HIGA</h1>
 
+<h2>ヘビに草を食べさせてみようと思います</h2>h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
