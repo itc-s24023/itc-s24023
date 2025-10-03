@@ -5,9 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=itc-s24023)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={itc-s24023}&hide=contribs,prs)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,react,typescript)](https://skillicons.dev)
 
-l
 
 
 <!--
