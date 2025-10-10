@@ -26,11 +26,6 @@
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg"> </picture> </div>
 <div align="center">
 
-</div> <table align="center"> <tr> <td width="50%"> <h3 align="center">プロジェクト名1</h3> <div align="center"> <a href="リポジトリURL" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itc-s24023&repo=リポジトリ名&theme=tokyonight&hide_border=true" alt="Project 1" /> </a> <p> <strong>プロジェクトの簡単な説明</strong> <br/> 使用技術: Java, Kotlin </p> </div> </td> <td width="50%"> <h3 align="center">プロジェクト名2</h3> <div align="center"> <a href="リポジトリURL" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itc-s24023&repo=リポジトリ名&theme=tokyonight&hide_border=true" alt="Project 2" /> </a> <p> <strong>プロジェクトの簡単な説明</strong> <br/> 使用技術: HTML, CSS, TypeScript </p> </div> </td> </tr> </table>
-<div align="center">
-
-
-
 
 🌟 これからもスキルアップを続けていきます！
 よろしくお願いします！
