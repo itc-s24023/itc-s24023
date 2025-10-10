@@ -3,7 +3,7 @@
 
 
 🚀 自己紹介
-</div> <table align="center"> <tr> <td> <img src="https://img.icons8.com/color/48/000000/laptop-coding.png" width="30"/> </td> <td> <b>現在取り組んでいること:</b> GitHubの使い方、Java / Kotlin / HTML の基礎技術 </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/student-center.png" width="30"/> </td> <td> <b>学習中:</b> Java、Kotlin、Web開発 </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/chat.png" width="30"/> </td> <td>  <tr> <td> <img src="https://img.icons8.com/color/48/000000/rocket.png" width="30"/> </td> <td> <b>目標:</b> プログラミングをできるようになること </td> </tr> </table>
+</div> <table align="center"> <tr> <td> <img src="https://img.icons8.com/color/48/000000/laptop-coding.png" width="30"/> </td> <td> <b>現在取り組んでいること:</b> GitHubの使い方、Java / Kotlin / HTML の基礎技術 </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/student-center.png" width="30"/> </td> <td> <b>学習中:</b> Java、Kotlin、Web開発 </td> </tr> </td> <td>  <tr> <td> <img src="https://img.icons8.com/color/48/000000/rocket.png" width="30"/> </td> <td> <b>目標:</b> プログラミングをできるようになること </td> </tr> </table>
 <div align="center">
 🛠️ スキル・技術スタック
 💻 言語
