@@ -1,44 +1,39 @@
-<div align="center"> <!-- ヘッダー画像 --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlignY=35&animation=twinkling" /> <!-- タイトル --> <h1>👋 Hi, I'm RIKITO HIGA</h1> <h3>ITカレッジ沖縄 ITスペシャリスト科 2年</h3> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=学生エンジニアです;Javaを勉強中です;新しい技術を学ぶのが好きです" alt="Typing SVG" />
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=itc-s24023&color=blueviolet&style=for-the-badge&label=プロフィール訪問数" alt="Profile views" /> </div>
-<!-- プロフィールセクション --> <table align="center"> <tr> <td align="center" width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=itc-s24023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> </td> <td align="center" width="50%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itc-s24023&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </td> </tr> </table>
 <div align="center">
+👋 Hi, I'm RIKITO HIGA
+ITカレッジ沖縄 ITスペシャリスト科 2年
+学校では主に GitHubの使い方 や Java / Kotlin / HTML の基礎技術を学んでいます。
+</div>
+
 🚀 自己紹介
-</div> <table align="center"> <tr> <td> <img src="https://img.icons8.com/color/48/000000/laptop-coding.png" width="30"/> </td> <td> <b>現在取り組んでいること:</b> GitHubの使い方、Java / Kotlin / HTML の基礎技術 </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/student-center.png" width="30"/> </td> <td> <b>学習中:</b> Java、Kotlin、Web開発 </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/chat.png" width="30"/> </td> <td> <b>得意分野:</b> バックエンド開発、Androidアプリ開発 </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/rocket.png" width="30"/> </td> <td> <b>目標:</b> フルスタックエンジニアになること </td> </tr> </table>
-<div align="center">
-🛠️ スキル・技術スタック
-💻 言語
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
-🚀 フレームワーク・ライブラリ
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />
-🔧 ツール
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" /> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /> <br/>
-📦 スキルアイコン
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=twitter,vscode,react,typescript,java,kotlin,html,css,git,github" /> </a> </div>
-<div align="center">
-📊 GitHub統計
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itc-s24023&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itc-s24023&theme=tokyo-night&hide_border=true" alt="Activity Graph" /> </div>
-<div align="center">
-🏆 トロフィー
-<img src="https://github-profile-trophy.vercel.app/?username=itc-s24023&theme=tokyonight&margin-w=15&no-frame=true&row=1" alt="GitHub Trophies" /> </div>
-<div align="center">
-🐍 GitHub活動
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg"> </picture> </div>
-<div align="center">
-🎯 注目プロジェクト
-</div> <table align="center"> <tr> <td width="50%"> <h3 align="center">プロジェクト名1</h3> <div align="center"> <a href="リポジトリURL" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itc-s24023&repo=リポジトリ名&theme=tokyonight&hide_border=true" alt="Project 1" /> </a> <p> <strong>プロジェクトの簡単な説明</strong> <br/> 使用技術: Java, Kotlin </p> </div> </td> <td width="50%"> <h3 align="center">プロジェクト名2</h3> <div align="center"> <a href="リポジトリURL" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itc-s24023&repo=リポジトリ名&theme=tokyonight&hide_border=true" alt="Project 2" /> </a> <p> <strong>プロジェクトの簡単な説明</strong> <br/> 使用技術: HTML, CSS, TypeScript </p> </div> </td> </tr> </table>
-<div align="center">
-📫 連絡先
-<a href="https://twitter.com/あなたのTwitter"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /> </a> <a href="https://あなたのポートフォリオサイト"> <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
-<br/><br/>
+🔭 現在取り組んでいること: GitHubの使い方、Java / Kotlin / HTML の基礎技術
+🌱 学習中: Java、Kotlin、Web開発
+💬 得意分野: バックエンド開発、Androidアプリ開発
+⚡ 目標: フルスタックエンジニアになること
 
+
+🛠️ スキル
+言語: Java, Kotlin, HTML, CSS
+ツール: Git, VS Code
+
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itc-s24023&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itc-s24023&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+🐍 Contributions
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  </picture>
+</p>
+
+<div align="center">
 🌟 これからもスキルアップを続けていきます！
 よろしくお願いします！
-
-<br/><br/>
-
-<!-- フッター画像 --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div>
+</div>
