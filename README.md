@@ -1,39 +1,22 @@
-<h1 align="center">Hi 👋, I'm RIKITO HIGA</h1>
+<div align="center"> <!-- ヘッダー画像 --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlignY=35&animation=twinkling" /> <!-- タイトル --> <h1> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=こんにちは！👋;フルスタックエンジニアです;新しい技術を学ぶのが好きです" alt="Typing SVG" /> </h1> </div> <!-- プロフィールセクション --> <table align="center"> <tr> <td align="center" width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> </td> <td align="center" width="50%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=あなたのユーザー名&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </td> </tr> </table> <div align="center">
+🚀 自己紹介
+</div> <table align="center"> <tr> <td> <img src="https://img.icons8.com/color/48/000000/laptop-coding.png" width="30"/> </td> <td> <b>現在取り組んでいること:</b> [プロジェクト名や学習内容] </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/student-center.png" width="30"/> </td> <td> <b>学習中:</b> [技術スタック] </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/chat.png" width="30"/> </td> <td> <b>得意分野:</b> [専門分野] </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/email.png" width="30"/> </td> <td> <b>連絡先:</b> <a href="mailto:your.email@example.com">your.email@example.com</a> </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/rocket.png" width="30"/> </td> <td> <b>趣味:</b> [趣味や興味] </td> </tr> </table> <div align="center">
+🛠️ スキル・技術スタック
+💻 言語
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+🚀 フレームワーク・ライブラリ
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white" /> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />
+🔧 ツール・その他
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> </div> <div align="center">
+📊 GitHub統計
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=あなたのユーザー名&theme=tokyo-night&hide_border=true" alt="Activity Graph" /> </div> <div align="center">
+🎯 注目プロジェクト
+</div> <table align="center"> <tr> <td width="50%"> <h3 align="center">プロジェクト名1</h3> <div align="center"> <a href="リポジトリURL" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=あなたのユーザー名&repo=リポジトリ名&theme=tokyonight&hide_border=true" alt="Project 1" /> </a> <p> <strong>プロジェクトの簡単な説明</strong> <br/> 使用技術: React, Node.js, MongoDB </p> </div> </td> <td width="50%"> <h3 align="center">プロジェクト名2</h3> <div align="center"> <a href="リポジトリURL" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=あなたのユーザー名&repo=リポジトリ名&theme=tokyonight&hide_border=true" alt="Project 2" /> </a> <p> <strong>プロジェクトの簡単な説明</strong> <br/> 使用技術: Python, Django, PostgreSQL </p> </div> </td> </tr> </table> <div align="center">
+📫 連絡先
+<a href="https://twitter.com/あなたのTwitter"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /> </a> <a href="https://linkedin.com/in/あなたのLinkedIn"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /> </a> <a href="https://あなたのポートフォリオサイト"> <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+<br/><br/>
 
-<h2>ITカレッジ沖縄ITスペシャリスト科2年の比嘉力斗です</h2>
-<h2>私は学校で主にgithubの使い方や、java,kotlin,htmlの基本的な技術を学びました</h2> 　
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-</picture>
+<img src="https://komarev.com/ghpvc/?username=あなたのユーザー名&color=blueviolet&style=for-the-badge&label=プロフィール訪問数" alt="Profile views" />
+<br/><br/>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=itc-s24023)]
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=twitter,vscode,react,typescript)](https://skillicons.dev)
-
-
-
-
-
-<!--
-**itc-s24023/itc-s24023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- フッター画像 --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div>
