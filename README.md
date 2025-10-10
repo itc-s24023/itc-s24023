@@ -1,9 +1,7 @@
 <div align="center"> <!-- ヘッダー画像 --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlignY=35&animation=twinkling" /> <!-- タイトル --> <h1>👋 Hi, I'm RIKITO HIGA</h1> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=ITカレッジ沖縄;ITスペシャリスト科二年;学生エンジニアです;Javaを勉強中です;新しい技術を学ぶのが好きです" alt="Typing SVG" />
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=itc-s24023&color=blueviolet&style=for-the-badge&label=プロフィール訪問数" alt="Profile views" /> </div>
-<!-- プロフィールセクション --> <table align="center"> <tr> <td align="center" width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=itc-s24023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> </td> <td align="center" width="50%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itc-s24023&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </td> </tr> </table>
-<div align="center">
+
 🚀 自己紹介
 </div> <table align="center"> <tr> <td> <img src="https://img.icons8.com/color/48/000000/laptop-coding.png" width="30"/> </td> <td> <b>現在取り組んでいること:</b> GitHubの使い方、Java / Kotlin / HTML の基礎技術 </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/student-center.png" width="30"/> </td> <td> <b>学習中:</b> Java、Kotlin、Web開発 </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/chat.png" width="30"/> </td> <td> <b>得意分野:</b> バックエンド開発、Androidアプリ開発 </td> </tr> <tr> <td> <img src="https://img.icons8.com/color/48/000000/rocket.png" width="30"/> </td> <td> <b>目標:</b> フルスタックエンジニアになること </td> </tr> </table>
 <div align="center">
