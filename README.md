@@ -25,9 +25,8 @@
 🐍 GitHub活動
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg"> </picture> </div>
 <div align="center">
-🎯 注目プロジェクト
-</div> <table align="center"> <tr> <td width="50%"> <h3 align="center">プロジェクト名1</h3> <div align="center"> <a href="リポジトリURL" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itc-s24023&repo=リポジトリ名&theme=tokyonight&hide_border=true" alt="Project 1" /> </a> <p> <strong>プロジェクトの簡単な説明</strong> <br/> 使用技術: Java, Kotlin </p> </div> </td> <td width="50%"> <h3 align="center">プロジェクト名2</h3> <div align="center"> <a href="リポジトリURL" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itc-s24023&repo=リポジトリ名&theme=tokyonight&hide_border=true" alt="Project 2" /> </a> <p> <strong>プロジェクトの簡単な説明</strong> <br/> 使用技術: HTML, CSS, TypeScript </p> </div> </td> </tr> </table>
-<div align="center">
+
+
 📫 連絡先
 <a href="https://twitter.com/あなたのTwitter"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /> </a> <a href="https://あなたのポートフォリオサイト"> <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
 <br/><br/>
