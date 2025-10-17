@@ -1,60 +1,117 @@
-<div align="center">
-  <!-- ヘッダー画像 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlignY=35&animation=twinkling" />
-  <!-- タイトル -->
-  <h1>👋 Hi, I'm RIKITO HIGA</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=ITカレッジ沖縄;ITスペシャリスト科二年;学生エンジニアです;Javaを勉強中です;新しい技術を学ぶのが好きです" alt="Typing SVG" />
-</div>
-<br/>
+# 📋 ポートフォリオ
 
-<div align="center">
-🚀 自己紹介
-</div>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://img.icons8.com/color/48/000000/laptop-coding.png" width="30"/>
-    </td>
-    <td>
-      <b>現在取り組んでいること:</b> GitHubの使い方、Java / Kotlin / HTML の基礎技術
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.icons8.com/color/48/000000/student-center.png" width="30"/>
-    </td>
-    <td>
-      <b>学習中:</b> Java、Kotlin、Web開発
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.icons8.com/color/48/000000/rocket.png" width="30"/>
-    </td>
-    <td>
-      <b>目標:</b> プログラミングをできるようになること
-    </td>
-  </tr>
-</table>
+## 👤 プロフィール
 
-<div align="center">
-🛠️ スキル・技術スタック
-💻 言語
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
-  <br></br>
-🚀 フレームワーク・ライブラリ
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />
-  <br></br>
-🔧 ツール
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</div>
+**名前:** [あなたの名前]  
+**所属:** [学校名・学科名]  
+**学年:** [学年]  
+**興味分野:** [プログラミング言語、技術分野など]
 
+---
+
+## 🎯 スキルセット
+
+### プログラミング言語
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+
+### フレームワーク・ライブラリ
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+
+### ツール・環境
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+---
+
+## 🚀 プロジェクト
+
+### 1. [プロジェクト名1]
+**概要:** プロジェクトの簡単な説明
+
+**技術スタック:** Python, Flask, SQLite
+
+**主な機能:**
+- 機能1の説明
+- 機能2の説明
+- 機能3の説明
+
+**リンク:** [GitHub](https://github.com/yourusername/project1) | [デモ](https://example.com)
+
+**スクリーンショット:**
+<!-- ![Screenshot](path/to/screenshot.png) -->
+
+---
+
+### 2. [プロジェクト名2]
+**概要:** プロジェクトの簡単な説明
+
+**技術スタック:** JavaScript, React, Node.js
+
+**主な機能:**
+- 機能1の説明
+- 機能2の説明
+- 機能3の説明
+
+**リンク:** [GitHub](https://github.com/yourusername/project2) | [デモ](https://example.com)
+
+---
+
+### 3. [プロジェクト名3]
+**概要:** プロジェクトの簡単な説明
+
+**技術スタック:** Java, Spring Boot, MySQL
+
+**主な機能:**
+- 機能1の説明
+- 機能2の説明
+- 機能3の説明
+
+**リンク:** [GitHub](https://github.com/yourusername/project3)
+
+---
+
+## 📚 学習中の技術
+
+- [ ] TypeScript
+- [ ] AWS
+- [ ] Kubernetes
+- [ ] 機械学習・AI
+
+---
+
+## 📝 ブログ・記事
+
+- [記事タイトル1](https://example.com) - 記事の簡単な説明
+- [記事タイトル2](https://example.com) - 記事の簡単な説明
+
+---
+
+## 📫 連絡先
+
+- **Email:** your.email@example.com
+- **GitHub:** [@itc-s24023](https://github.com/itc-s24023)
+- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)
+- **Portfolio Site:** [https://yourportfolio.com](https://yourportfolio.com)
+
+---
+
+## 🌟 その他
+
+**趣味・興味:**
+- 技術ブログの執筆
+- オープンソース活動
+- 競技プログラミング
+
+**目標:**
+- ソフトウェアエンジニアとしてのキャリアを築く
+- オープンソースプロジェクトへの貢献
+- 技術コミュニティでの活動
+
+---
 
 <div align="center">
 🐍 GitHub活動
@@ -63,12 +120,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   </picture>
-</div>
-
-<div align="center">
-🌟 これからもスキルアップを続けていきます！
-よろしくお願いします！
-  <br/>
-  <!-- フッター画像 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
