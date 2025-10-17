@@ -72,13 +72,6 @@
 - **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)
 - **Portfolio Site:** [https://yourportfolio.com](https://yourportfolio.com)
 
----
-
-## 🌟 その他
-
-**趣味・興味:**
-- 技術ブログの執筆
-- オープンソース活動
 
 **目標:**
 - 使える言語を増やせるようにしたいです
