@@ -1,4 +1,11 @@
-# 📋 ポートフォリオ
+<div align="center">
+  <!-- ヘッダー画像 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <!-- タイトル -->
+  <h1>👋 Hi, I'm RIKITO HIGA</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=ITカレッジ沖縄;ITスペシャリスト科二年;学生エンジニアです;Javaを勉強中です;新しい技術を学ぶのが好きです" alt="Typing SVG" />
+</div>
+<br/>
 
 ## 👤 プロフィール
 
