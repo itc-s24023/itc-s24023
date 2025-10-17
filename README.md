@@ -57,7 +57,10 @@
 ## 📚 学習中の技術
 
 - [ ] TypeScript
-
+- [ ] Java
+- [ ] Kotlin
+- [ ] Javascript
+- [ ] Python
 ---
 
 
