@@ -44,7 +44,7 @@
 - 機能2の説明
 - 機能3の説明
 
-**リンク:** [GitHub](https://github.com/yourusername/project1) | [デモ](https://example.com)
+**リンク:** [GitHub](https://github.com/s23022/Recipe-Seach) | [デモ](https://example.com)
 
 **スクリーンショット:**
 <!-- ![Screenshot](path/to/screenshot.png) -->
@@ -57,13 +57,25 @@
 ## 📚 学習中の技術
 
 - [ ] TypeScript
-- [ ] Java
-- [ ] Kotlin
-- [ ] Javascript
-- [ ] Python
+
 ---
 
 
+## 📫 連絡先
+
+- **Email:** your.email@example.com
+- **GitHub:** [@itc-s24023](https://github.com/itc-s24023)
+- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)
+- **Portfolio Site:** [https://yourportfolio.com](https://yourportfolio.com)
+
+---
+
+## 🌟 その他
+
+**趣味・興味:**
+- 技術ブログの執筆
+- オープンソース活動
 
 **目標:**
 - 使える言語を増やせるようにしたいです
