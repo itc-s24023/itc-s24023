@@ -64,14 +64,6 @@
 ---
 
 
-## 📫 連絡先
-
-- **Email:** your.email@example.com
-- **GitHub:** [@itc-s24023](https://github.com/itc-s24023)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)
-- **Portfolio Site:** [https://yourportfolio.com](https://yourportfolio.com)
-
 
 **目標:**
 - 使える言語を増やせるようにしたいです
