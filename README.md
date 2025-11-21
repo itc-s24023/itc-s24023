@@ -10,23 +10,33 @@
 ## 👤 プロフィール
 
 **名前:** [比嘉 力斗]  
-**所属:** [ITカレッジ沖縄 ITスペシャリスト科] 　  
-**学年:** [2年生]  
+**所属:** [IT カレッジ沖縄 IT スペシャリスト科] 　  
+**学年:** [2 年生]
+
+---
+
+## 📜 取得資格
+
+- 資格名 1
+- 資格名 2
+- 資格名 3
 
 ---
 
 ## 🎯 スキルセット
 
 ### プログラミング言語
+
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 
 ### フレームワーク・ライブラリ
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 ### ツール・環境
+
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
@@ -34,23 +44,25 @@
 
 ## 🚀 プロジェクト
 
-### 1. [プロジェクト名1]
-**概要:** プロジェクトの簡単な説明
+### 1. [🌺沖縄の天気と地域の情報を見れるサイト🌺]
 
-**技術スタック:** Python, Flask, SQLite
+**概要:** 沖縄の各地域の天気や気温、地域の情報を確認できます
 
-**主な機能:**
-- 機能1の説明
-- 機能2の説明
-- 機能3の説明
+**技術スタック:** javascript
 
-**リンク:** [GitHub](https://github.com/yourusername/project1) | [デモ](https://example.com)
-
-**スクリーンショット:**
-<!-- ![Screenshot](path/to/screenshot.png) -->
+**リンク:** [GitHub](https://github.com/itc-s24023/Nextkadai)
 
 ---
 
+### 2. [🍚料理レシピ検索サイト🍚]
+
+**概要:** 作りたい料理を検索したらレシピが表示されます
+
+**技術スタック:** javascript
+
+**リンク:** [GitHub](https://github.com/yourusername/project1) | [デモ](https://example.com)
+
+---
 
 ---
 
@@ -61,8 +73,8 @@
 - [ ] Kotlin
 - [ ] Javascript
 - [ ] Python
----
 
+---
 
 ## 📫 連絡先
 
@@ -72,8 +84,8 @@
 - **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)
 - **Portfolio Site:** [https://yourportfolio.com](https://yourportfolio.com)
 
-
 **目標:**
+
 - 使える言語を増やせるようにしたいです
 
 ---
