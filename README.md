@@ -59,7 +59,7 @@
 
 **技術スタック:** javascript
 
-**リンク:** [GitHub](https://github.com/yourusername/project1) | [デモ](https://example.com)
+**リンク:** [GitHub](https://github.com/yourusername/project1) 
 
 ---
 
