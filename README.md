@@ -45,6 +45,7 @@
 - 機能3の説明
 
 **リンク:** [GitHub](https://github.com/s23022/Recipe-Seach) | [デモ](https://example.com)
+           [GitHub](https://github.com/itc-s24023/Nextkadai)
 
 **スクリーンショット:**
 <!-- ![Screenshot](path/to/screenshot.png) -->
