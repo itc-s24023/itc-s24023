@@ -49,7 +49,20 @@
 **概要:** 沖縄の各地域の天気や気温、地域の情報を確認できます!
 **技術スタック:** javascript
 
+<<<<<<< HEAD
 **リンク:** [GitHub](https://github.com/itc-s24023/Nextkadai)
+=======
+**主な機能:**
+- 機能1の説明
+- 機能2の説明
+- 機能3の説明
+
+**リンク:** [GitHub](https://github.com/s23022/Recipe-Seach) | [デモ](https://example.com)
+           [GitHub](https://github.com/itc-s24023/Nextkadai)
+
+**スクリーンショット:**
+<!-- ![Screenshot](path/to/screenshot.png) -->
+>>>>>>> 2c1ffebdd6ef362ec3c355fffdd5bf9df5e42641
 
 ---
 
@@ -68,10 +81,15 @@
 ## 📚 学習中の技術
 
 - [ ] TypeScript
+<<<<<<< HEAD
 - [ ] Java
 - [ ] Kotlin
 - [ ] Javascript
 - [ ] Python
+=======
+
+---
+>>>>>>> 2c1ffebdd6ef362ec3c355fffdd5bf9df5e42641
 
 ---
 
@@ -83,6 +101,17 @@
 - **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)
 - **Portfolio Site:** [https://yourportfolio.com](https://yourportfolio.com)
 
+<<<<<<< HEAD
+=======
+---
+
+## 🌟 その他
+
+**趣味・興味:**
+- 技術ブログの執筆
+- オープンソース活動
+
+>>>>>>> 2c1ffebdd6ef362ec3c355fffdd5bf9df5e42641
 **目標:**
 
 - 使える言語を増やせるようにしたいです
